@@ -1,6 +1,6 @@
 - 👋 Olá Mundo, Sou o Ivan Duarte
 - 👀 Gosto de Jogos Digitais, História, Programação, Ciclismo de Montanha e Música.
-- 🌱 Atualmente estou aprendendo Python, Java, HTML, CSS.
+- 🌱 Atualmente estou aprendendo Python, Java, TypeScript.
 - 💞️ Procuro expandir meus conhecimentos em TI para trabalhar em projetos visionários.
 - 📫 Principais Contatos
 - GMAIL - ivangermanoduarte@gmail.com
