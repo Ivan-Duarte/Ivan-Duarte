@@ -4,6 +4,7 @@
 - 💞️ Procuro expandir meus conhecimentos em TI para trabalhar em projetos visionários.
 - 📫 Principais Contatos
 - GMAIL - ivangermanoduarte@gmail.com
+- Linkedin -  https://www.linkedin.com/in/ivan-duarte-982532217/
 - Instagram - @ivangermanoduarte
 <!---
 Ivan-Duarte/Ivan-Duarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
