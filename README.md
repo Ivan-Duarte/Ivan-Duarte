@@ -7,7 +7,9 @@
 
 <div>
   <a href="https://github.com/Ivan-Duarte">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ivan-Duarte&&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em"
+  src="https://github-readme-stats.vercel.app/api?username=Ivan-Duarte&&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&title_color=ffa500&bg_color=DEG,696969,000000"
+  />
 </div>
 
 
