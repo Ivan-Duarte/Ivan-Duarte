@@ -1,4 +1,8 @@
-## Olá Mundo ! Sou o Ivan Duarte
+## Olá Mundo ! Sou o Ivan Duarte    
+<div align="right">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/{Ivan-Duarte}/count.svg)
+</div>
 
 - 👋 Olá Mundo, Sou o Ivan Duarte
 - 👀 Gosto de Jogos Digitais, História, Programação, Ciclismo de Montanha e Música.
@@ -31,7 +35,7 @@
  
 <div align="center"> 
   <h3>🐍</h3> 
-
+  
   ![Snake animation](https://github.com/Ivan-Duarte/Ivan-Duarte/blob/output/github-contribution-grid-snake.svg)
  
 </div>
