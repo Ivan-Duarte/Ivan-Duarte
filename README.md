@@ -23,6 +23,7 @@
   <a href = "mailto:ivangermanoduarte@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ivan-duarte-982532217/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br>
+<br>
   ![Snake animation](https://github.com/Ivan-Duarte/Ivan-Duarte/blob/output/github-contribution-grid-snake.svg)
  
 </div>
