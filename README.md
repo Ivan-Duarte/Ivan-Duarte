@@ -1,10 +1,11 @@
 ## Olá Mundo ! Sou o Ivan Duarte    
 <div align="right">
   
-  ![Visitor Count](https://profile-counter.glitch.me/{Ivan-Duarte}/count.svg)
+  <img src="https://img.shields.io/github/forks/Ivan-Duarte/Ivan-Duarte.svg"/>
+  <img src="https://img.shields.io/github/watchers/Ivan-Duarte/Ivan-Duarte.svg"/>
+
 </div>
 
-- 👋 Olá Mundo, Sou o Ivan Duarte
 - 👀 Gosto de Jogos Digitais, História, Programação, Ciclismo de Montanha e Música.
 - 🌱 Atualmente estou aprendendo Python, Java, JavaScript, TypeScript.
 - 💞️ Procuro expandir meus conhecimentos em TI para trabalhar em grandes projetos.
