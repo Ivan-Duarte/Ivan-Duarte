@@ -26,11 +26,12 @@
   <a href="https://www.linkedin.com/in/ivan-duarte-982532217/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ivangermanoduarte/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-<br>
-<br>
-  
-<div align="center"> 
  
+ ##
+ 
+<div align="center"> 
+  <h3>🐍</h3> 
+
   ![Snake animation](https://github.com/Ivan-Duarte/Ivan-Duarte/blob/output/github-contribution-grid-snake.svg)
  
 </div>
