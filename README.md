@@ -9,7 +9,7 @@
 <div>
   <a href="https://github.com/Ivan-Duarte">
   <img height="200em" width="45%"
-  src="https://github-readme-stats.vercel.app/api?username=Ivan-Duarte&&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&title_color=ffffff&bg_color=DEG,bf611b,a03329,5d2322,040404,0f3e50,0d7683,25b9f4&text_color=ffffff&icon_color=ffea00&border_color=000000&border_radius=10"
+  src="https://github-readme-stats.vercel.app/api?username=Ivan-Duarte&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&title_color=ffffff&bg_color=DEG,bf611b,a03329,5d2322,040404,0f3e50,0d7683,25b9f4&text_color=ffffff&icon_color=ffea00&border_color=000000&border_radius=10"
   />
   <img height="200em" width="50%"
   src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Duarte&theme=dark&layout=compact&langs_count=16&include_all_commits=true&locale=pt-br"
