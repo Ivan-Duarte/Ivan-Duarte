@@ -2,7 +2,7 @@
 
 - 👋 Olá Mundo, Sou o Ivan Duarte
 - 👀 Gosto de Jogos Digitais, História, Programação, Ciclismo de Montanha e Música.
-- 🌱 Atualmente estou aprendendo Python, Java, TypeScript.
+- 🌱 Atualmente estou aprendendo Python, Java, JavaScript, TypeScript.
 - 💞️ Procuro expandir meus conhecimentos em TI para trabalhar em grandes projetos.
 
 <div align="center">
