@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/github/forks/Ivan-Duarte/Ivan-Duarte.svg"/>
   <img src="https://img.shields.io/github/watchers/Ivan-Duarte/Ivan-Duarte.svg"/>
 
+  
 </div>
 
 - 👀 Gosto de Jogos Digitais, História, Programação, Ciclismo de Montanha e Música.
