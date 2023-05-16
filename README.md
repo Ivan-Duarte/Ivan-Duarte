@@ -6,7 +6,7 @@
 </div>
 
 - 👀 Gosto de Jogos Digitais, História, Programação, Ciclismo de Montanha e Música.
-- 🌱 Atualmente estou aprendendo Python, Java, JavaScript, TypeScript.
+- 🌱 Atualmente estou aprendendo Python, Java, JavaScript, TypeScript, Html e CSS.
 - 💞️ Procuro expandir meus conhecimentos em TI para trabalhar em grandes projetos.
 
 <div align="center">
